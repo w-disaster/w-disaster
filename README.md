@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @w-disaster
-- 👀 I’m interested in Deep learning, computer security, AI applications in computer security
-- 🌱 I’m currently learning Distributed Systems, Languages, Compilers and Computational models, Information Systems
+- 👀 I’m interested in Machine Learning applications in computer security
+- 🌱 I’m currently learning Programming paradigms and development, Concurrent and distributed programming, Cybersecurity, Web applications
 - :boom: Currently I'm a master degree student in Computer science and engineering at the University of Bologna
 - 📫 How to reach me (email: luca.fabri1999@gmail.com)
 
